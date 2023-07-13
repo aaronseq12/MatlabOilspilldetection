@@ -58,7 +58,7 @@ See my other projects here on [GitHub](https://github.com/aaronseq12)!
 
 ### Documentation
 
-- To understand better the code of this segmentation project please see the [code explanation file](https://github.com/d-elicio/Oil-Spill-Detection-in-SAR-images/blob/main/Code%20explanation%20(technical%20implementation).pdf).
+- To understand better the code of this segmentation project please see the [code explanation file]([https://github.com/d-elicio/Oil-Spill-Detection-in-SAR-images/blob/main/Code%20explanation%20(technical%20implementation).pdf](https://github.com/aaronseq12/MatlabOilspilldetection/blob/main/Code%20explanation%20(technical%20implementation).pdf)https://github.com/aaronseq12/MatlabOilspilldetection/blob/main/Code%20explanation%20(technical%20implementation).pdf).
 
 ## Support
 
