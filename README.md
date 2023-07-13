@@ -71,5 +71,5 @@ See my other projects here on [GitHub](https://github.com/d-elicio)!
 
 ## Support
 
-For any support, error corrections, etc. please email me at domenico.elicio13@gmail.com
+For any support, error corrections, etc. please email me at aaronsequeira12@gmail.com
 
