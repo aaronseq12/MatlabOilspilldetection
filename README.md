@@ -1,20 +1,11 @@
 # Oil Spills detection and Segmentation in SAR images
 
 
-![GitHub watchers](https://img.shields.io/github/watchers/d-elicio/Oil-Spill-Detection-in-SAR-images?style=social)
-![GitHub forks](https://img.shields.io/github/forks/d-elicio/Oil-Spill-Detection-in-SAR-images?style=social)
-![GitHub User's stars](https://img.shields.io/github/stars/d-elicio?style=social)
-![GitHub last commit](https://img.shields.io/github/last-commit/d-elicio/Oil-Spill-Detection-in-SAR-images)
-
 Design and implementation of Image Processing segmentation
 techniques and algorithms for oil spill detection on SAR images
 ## 🚀 About Me
 I'm a computer science Master's Degree student and this is one of my university project. 
-See my other projects here on [GitHub](https://github.com/d-elicio)!
-
-[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://d-elicio.github.io)
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/domenico-elicio/)
-
+See my other projects here on [GitHub](https://github.com/aaronseq12)!
 
 # 💻 The project
 
