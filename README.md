@@ -31,7 +31,7 @@ See my other projects here on [GitHub](https://github.com/aaronseq12)!
 
 - The used SAR dataset is composed of two types of images: images with *only sea* surface and *one or multiple oil spills* and images with *lands, sea, and oil spills.* In this work two different approaches were followed based on the type of image analyzed:
     - Images with **land and sea** are analyzed by using *two methods*: an **automatic thresholding** method and a **k-means clustering approach**
-    - Images with **only sea and oil spills** are instead analyzed using *four different approaches*: a **thresholding method**, with three different thresholding variants (*manual, automatic and a local adaptive threshold*), a **superpixel approach**, an **edge detection** of oil spills through a **Fuzzy Logic approach** and **k-means clustering** to identify similar regions and create the oil spill segmentation mask.
+    - Images with **only sea and oil spills** are instead analyzed using *four different approaches*: a **thresholding method**, with three different thresholding variants (*manual, automatic and a local adaptive threshold*), a **superpixel approach**, an **edge detection** of oil spills through a **Fuzzy Logic approach** and **k-means clustering** to identify similar regions and create the oil spill segmentation mask
 
 - Different image enhancement techniques like **median** or **Wiener filters** and **histogram equalization** techniques have been used.
 ![Immagine 2022-08-06 190351](https://user-images.githubusercontent.com/96207365/183258816-0881c834-f437-41d3-a101-a8582dba555a.jpg)
