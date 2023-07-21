@@ -4,7 +4,7 @@
 Design and implementation of Image Processing segmentation
 techniques and algorithms for oil spill detection on SAR images
 ## 🚀 About Me
-I'm a student in Manipal University, pursuing B-tech in information technology and this is one of my university project. 
+My I'm a student in Manipal University, pursuing B-tech in information technology and this is one of my university project. 
 See my other projects here on [GitHub](https://github.com/aaronseq12)!
 
 # 💻 The project
