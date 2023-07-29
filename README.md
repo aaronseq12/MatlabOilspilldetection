@@ -50,7 +50,7 @@ See my other projects here on [GitHub](https://github.com/aaronseq12)!
 
 ![evaluation indices](https://user-images.githubusercontent.com/96207365/185741928-d8a9379d-d6f7-490b-8694-4d1b32435daf.jpg)
 
-- These three indices are a good starting point to evaluate the goodness of segmentation methods used, but during the development of this project, lots of times have been seen that *also ground truth mask have exaggeratedly large borders with respect to the original SAR image*, in particular for oil spills, so together with this evaluation parameters, also a final image representing the original SAR image with the overlapped segmentation mask has been produced, to *qualitatively* judge too the segmentation results..
+- These three indices are a good starting point to evaluate the goodness of segmentation methods used, but during the development of this project, lots of times have been seen that *also ground truth mask have exaggeratedly large borders with respect to the original SAR image*, in particular for oil spills, so together with this evaluation parameters, also a final image representing the original SAR image with the overlapped segmentation mask has been produced, to *qualitatively* judge too the segmentation results.
 
 ![img3 sovrapposta mask](https://user-images.githubusercontent.com/96207365/185742093-b89e98e3-aa9e-43fa-9b67-394317a99cc7.jpg)
 
