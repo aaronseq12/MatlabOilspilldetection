@@ -6,7 +6,7 @@ clc
 tic
 
 
-choice=
+choice=9
 fileidx=1;
 
 %Continue running program until user input is "2"
