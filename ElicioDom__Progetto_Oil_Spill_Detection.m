@@ -6,7 +6,7 @@ clc
 tic
 
 
-ch
+cho
 fileidx=1;
 
 %Continue running program until user input is "2"
