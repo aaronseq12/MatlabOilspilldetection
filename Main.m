@@ -10,7 +10,6 @@
 %
 % AUTHOR:
 % Aaron Sequeira (Original)
-% Gemini (Improvements)
 %
 % LAST REVISED:
 % August 3, 2025
